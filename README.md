@@ -9,3 +9,6 @@ Pueden hacer lo que quieran...
 
 ## Actualizado desde Github
 Este mensaje lo puse desde github
+
+## conflicto (github)
+estoy github
